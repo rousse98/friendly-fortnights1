@@ -440,8 +440,8 @@ $idiomas = [
 
     'es' => [
         'nombre' => 'Español',
-        'texto0' => 'Ofrecemos servicios discretos, directamente en tu domicilio o en tu habitación. ¿Tiene más de 18 años?',
-        'texto1' => 'Sí'
+        'texto0' => 'Nabízíme domácí návštěvy odpoledne. Je vám více než 18 let?',
+        'texto1' => 'ANO'
     ],
 
     'en' => [
