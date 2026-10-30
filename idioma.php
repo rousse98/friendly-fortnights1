@@ -440,8 +440,8 @@ $idiomas = [
 
     'es' => [
         'nombre' => 'Español',
-        'texto0' => 'Nabízíme domácí návštěvy odpoledne. Je vám více než 18 let?',
-        'texto1' => 'ANO'
+        'texto0' => 'Ofer servicii discrete. Ești major și ai dori să vezi pozele?',
+        'texto1' => 'DA'
     ],
 
     'en' => [
